@@ -5,7 +5,7 @@ import TheWelcome from './components/TheWelcome.vue'
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="c:\Users\NAUFAL AULIA HENDRI\Pictures\Gambar WhatsApp 2024-06-14 pukul 16.02.23_aebd8b9d.jpg" width="250" height="250" />
+    <img alt="click picture" class="logo" href="https://drive.google.com/file/d/1XgjDYLZqif61pYR5iivawH52USJrCre2/view?usp=drivesdk" />
     
     <div class="wrapper">
       <HelloWorld msg="NAUFAL AULIA HENDRI" />
